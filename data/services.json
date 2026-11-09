@@ -1,0 +1,301 @@
+[
+  { "id": 1, "metierId": 1, "nom": "Réparation de fuite d'eau", "description": "Recherche et colmatage de fuite sur tuyau percé ou robinet" },
+  { "id": 2, "metierId": 1, "nom": "Débouchage de canalisation & WC", "description": "Dégorgement express évier, fosse et tuyauterie d'évacuation" },
+
+  { "id": 3, "metierId": 2, "nom": "Dépannage panne de courant", "description": "Recherche de court-circuit et remise en service urgente" },
+  { "id": 4, "metierId": 2, "nom": "Pose de tableau & Disjoncteurs", "description": "Installation et mise aux normes du compteur électrique" },
+
+  { "id": 5, "metierId": 3, "nom": "Fabrication de meubles sur mesure", "description": "Conception de placards, dressings, tables et étagères" },
+  { "id": 6, "metierId": 3, "nom": "Pose & Réparation de portes", "description": "Rabotage, ajustement et fixation de portes en bois" },
+
+  { "id": 7, "metierId": 4, "nom": "Peinture intérieure complète", "description": "Préparation des murs, enduit et application de peinture mate/satinée" },
+  { "id": 8, "metierId": 4, "nom": "Ravalement de peinture extérieure", "description": "Peinture imperméable pour façades et clôtures extérieures" },
+
+  { "id": 9, "metierId": 5, "nom": "Pose de carrelage au sol", "description": "Pose droite ou diagonale de carreaux grand format ou grès cérame" },
+  { "id": 10, "metierId": 5, "nom": "Pose de faïence murale", "description": "Habillage mural étanche pour douche et crédence de cuisine" },
+
+  { "id": 11, "metierId": 6, "nom": "Montage de murs en parpaings", "description": "Élévation de murs porteurs ou murets de clôture" },
+  { "id": 12, "metierId": 6, "nom": "Coulage de dalle en béton", "description": "Ferraillage et coulage de chape ou dalle béton armé" },
+
+  { "id": 13, "metierId": 7, "nom": "Installation de climatiseur split", "description": "Fixation unité intérieure/extérieure et raccordement frigorifique" },
+  { "id": 14, "metierId": 7, "nom": "Recharge de gaz & Entretien clim", "description": "Nettoyage filtres, détection de fuite et recharge en gaz" },
+
+  { "id": 15, "metierId": 8, "nom": "Soudure de pièces métalliques", "description": "Soudure à l'arc, TIG ou MIG sur acier et fer" },
+  { "id": 16, "metierId": 8, "nom": "Assemblage charpente métallique", "description": "Fabrication et assemblage d'ossatures et hangars en métal" },
+
+  { "id": 17, "metierId": 9, "nom": "Fabrication de portail métallique", "description": "Conception sur-mesure de portails battants ou coulissants" },
+  { "id": 18, "metierId": 9, "nom": "Pose de grilles antivol", "description": "Grilles de protection renforcées pour portes et fenêtres" },
+
+  { "id": 19, "metierId": 10, "nom": "Pose de baies vitrées aluminium", "description": "Installation de fenêtres et baies vitrées coulissantes" },
+  { "id": 20, "metierId": 10, "nom": "Remplacement de vitres cassées", "description": "Découpe et remplacement rapide de vitrage simple ou double" },
+
+  { "id": 21, "metierId": 11, "nom": "Pose de chape d'étanchéité", "description": "Application de membranes bitumineuses sur dalle béton" },
+  { "id": 22, "metierId": 11, "nom": "Traitement anti-infiltration terrasse", "description": "Résine imperméabilisante pour terrasses et toitures plates" },
+
+  { "id": 23, "metierId": 12, "nom": "Pose de toiture en tôles bac alu", "description": "Pose de couverture métallique étanche et durable" },
+  { "id": 24, "metierId": 12, "nom": "Rénovation de charpente en bois", "description": "Remplacement de chevrons et madriers abîmés" },
+
+  { "id": 25, "metierId": 13, "nom": "Pose de faux-plafond en staff", "description": "Création de plafonds décoratifs lisses et modernes" },
+  { "id": 26, "metierId": 13, "nom": "Pose de corniches et rosaces", "description": "Moulures et décors floraux en plâtre pour salon" },
+
+  { "id": 27, "metierId": 14, "nom": "Ouverture de porte bloquée", "description": "Dépannage d'urgence de porte claquée ou clé cassée" },
+  { "id": 28, "metierId": 14, "nom": "Changement de barillet / serrure", "description": "Installation de serrures 3 points ou de cylindres haute sécurité" },
+
+  { "id": 29, "metierId": 15, "nom": "Réparation de réfrigérateur", "description": "Dépannage compresseur, thermostat et circuit de froid" },
+  { "id": 30, "metierId": 15, "nom": "Réparation machine à laver", "description": "Changement pompe de vidange, courroie et moteur" },
+
+  { "id": 31, "metierId": 16, "nom": "Réparation écran TV / Rétroéclairage", "description": "Changement bandes LED et réparation dalles sombres" },
+  { "id": 32, "metierId": 16, "nom": "Dépannage carte mère TV", "description": "Micro-soudure et remplacement de composants brûlés" },
+
+  { "id": 33, "metierId": 17, "nom": "Installation de panneaux solaires", "description": "Pose sur toiture et raccordement au contrôleur" },
+  { "id": 34, "metierId": 17, "nom": "Installation d'onduleur & Batteries", "description": "Mise en place de système de relais automatique en cas de coupure" },
+
+  { "id": 35, "metierId": 18, "nom": "Pointage de parabole Canal+ / TNT", "description": "Alignement précis au mesureur de champ pour signal optimal" },
+  { "id": 36, "metierId": 18, "nom": "Câblage coaxial multi-postes", "description": "Distribution du signal TV dans plusieurs chambres" },
+
+  { "id": 37, "metierId": 19, "nom": "Tirage de câble réseau RJ45", "description": "Câblage structuré dans les gaines murales" },
+  { "id": 38, "metierId": 19, "nom": "Installation baie de brassage & Switch", "description": "Organisation propre des câbles réseau pour maison ou bureau" },
+
+  { "id": 39, "metierId": 20, "nom": "Installation de caméras IP", "description": "Pose de caméras extérieures et intérieures vision nocturne" },
+  { "id": 40, "metierId": 20, "nom": "Configuration accès vidéo sur smartphone", "description": "Visualisation en direct sur téléphone où que vous soyez" },
+
+  { "id": 41, "metierId": 21, "nom": "Pose de clôture électrique", "description": "Installation électrificateur, isolateurs et fils haute tension" },
+  { "id": 42, "metierId": 21, "nom": "Installation de fil barbelé concertina", "description": "Sécurisation du sommet de clôture par rouleaux tranchants" },
+
+  { "id": 43, "metierId": 22, "nom": "Motorisation de portail coulissant", "description": "Pose de crémaillère, moteur et cellules photoélectriques" },
+  { "id": 44, "metierId": 22, "nom": "Programmation de télécommandes", "description": "Appairage et ajout de télécommandes d'ouverture" },
+
+  { "id": 45, "metierId": 23, "nom": "Forage d'eau mécanique", "description": "Recherche de nappe phréatique et percement de puits" },
+  { "id": 46, "metierId": 23, "nom": "Installation pompe immergée", "description": "Raccordement pompe, coffret de commande et réservoir" },
+
+  { "id": 47, "metierId": 24, "nom": "Pompage de fosse septique par camion", "description": "Aspiration rapide de boues et vidange hygiénique" },
+  { "id": 48, "metierId": 24, "nom": "Curage de regard d'eaux usées", "description": "Débouchage haute pression des conduits d'égout" },
+
+  { "id": 49, "metierId": 25, "nom": "Traitement anti-cafards et rongeurs", "description": "Pulvérisation de gel et produits certifiés pour élimination durable" },
+  { "id": 50, "metierId": 25, "nom": "Nébulisation & Désinfection complète", "description": "Assainissement de l'air et destruction des microbes et punaises" },
+
+  { "id": 51, "metierId": 26, "nom": "Grand nettoyage de fin de chantier", "description": "Élimination des traces de colle, peinture et poussière de plâtre" },
+  { "id": 52, "metierId": 26, "nom": "Nettoyage complet à domicile", "description": "Lavage intensif des sols, vitres, cuisine et sanitaires" },
+
+  { "id": 53, "metierId": 27, "nom": "Traitement chimique de l'eau piscine", "description": "Ajustement du pH, traitement choc au chlore et antialgues" },
+  { "id": 54, "metierId": 27, "nom": "Nettoyage filtre et fond de piscine", "description": "Aspiration du bassin et lavage du filtre à sable" },
+
+  { "id": 55, "metierId": 28, "nom": "Tonte de gazon et désherbage", "description": "Coupe nette de pelouse et désherbage manuel ou thermique" },
+  { "id": 56, "metierId": 28, "nom": "Création de massifs floraux", "description": "Plantation d'arbustes d'ornement et disposition esthétique" },
+
+  { "id": 57, "metierId": 29, "nom": "Élagage de branches hautes", "description": "Taille sécurisée de branches menaçant toitures ou fils électriques" },
+  { "id": 58, "metierId": 29, "nom": "Abattage complet d'arbre", "description": "Découpe par tronçons et dessouchage propre" },
+
+  { "id": 59, "metierId": 30, "nom": "Conseils d'agencement intérieur", "description": "Optimisation des espaces de vie et circulation dans la maison" },
+  { "id": 60, "metierId": 30, "nom": "Choix des luminaires et peintures", "description": "Harmonisation des couleurs et ambiance lumineuse de la maison" },
+
+  { "id": 61, "metierId": 31, "nom": "Rénovation d'assise de canapé", "description": "Remplacement de mousse haute densité affaissée" },
+  { "id": 62, "metierId": 31, "nom": "Habillage tissu / cuir de fauteuil", "description": "Changement complet du revêtement de salon et finition clous" },
+
+  { "id": 63, "metierId": 32, "nom": "Confection de rideaux sur mesure", "description": "Prise de mesure, couture et finition œillets ou fronces" },
+  { "id": 64, "metierId": 32, "nom": "Pose de tringles & Rails de rideau", "description": "Perçage et fixation solide de tringles simples ou doubles" },
+
+  { "id": 65, "metierId": 33, "nom": "Vernissage & Cirage de meuble ancien", "description": "Décapage, ponçage fin et application de vernis protecteur" },
+  { "id": 66, "metierId": 33, "nom": "Réparation de bois fendu ou vermoulu", "description": "Traitement insecticide du bois et rebouchage à la pâte" },
+
+  { "id": 67, "metierId": 34, "nom": "Tressage de salon en rotin", "description": "Fabrication artisanale de fauteuils et canapés tressés" },
+  { "id": 68, "metierId": 34, "nom": "Fabrication de mobilier en bambou", "description": "Tables basses, lits et étagères en bambou traité" },
+
+  { "id": 69, "metierId": 35, "nom": "Pose de parquet flottant stratifié", "description": "Pose sur sous-couche isolante avec plinthes assorties" },
+  { "id": 70, "metierId": 35, "nom": "Pose de sol vinyle en rouleau ou dalles", "description": "Découpe nette et encollage de revêtement PVC lavable" },
+
+  { "id": 71, "metierId": 36, "nom": "Ponçage de sol granito / marbre", "description": "Passage de surfaceuse pour éliminer rayures et salissures" },
+  { "id": 72, "metierId": 36, "nom": "Cristallisation & Brillance des sols", "description": "Traitement de finition pour effet miroir résistant" },
+
+  { "id": 73, "metierId": 37, "nom": "Crépissage projeté de façade", "description": "Application d'enduit extérieur décoratif tyrolien ou écrasé" },
+  { "id": 74, "metierId": 37, "nom": "Traitement des fissures de façade", "description": "Ouverture des lézardes, armature grillagée et rebouchage élastique" },
+
+  { "id": 75, "metierId": 38, "nom": "Sablage de grilles métalliques", "description": "Décapage sous pression pour éliminer rouille et vieille peinture" },
+  { "id": 76, "metierId": 38, "nom": "Décapage chimique de boiseries", "description": "Élimination des anciennes couches de vernis sans abîmer le bois" },
+
+  { "id": 77, "metierId": 39, "nom": "Pose de pavés pour parking et cour", "description": "Mise à niveau sol, lit de sable et pose autobloquants" },
+  { "id": 78, "metierId": 39, "nom": "Pose de bordures de trottoir", "description": "Calage au mortier des bordures de retenue de pavés" },
+
+  { "id": 79, "metierId": 40, "nom": "Démolition de cloison intérieure", "description": "Abattage sécurisé de cloisons non porteuses" },
+  { "id": 80, "metierId": 40, "nom": "Évacuation de gravats par benne", "description": "Mise en sacs, chargement et transport en décharge agréée" },
+
+  { "id": 81, "metierId": 41, "nom": "Vidange moteur & Changement filtres", "description": "Remplacement huile moteur, filtre à huile, air et carburant" },
+  { "id": 82, "metierId": 41, "nom": "Remplacement kit de frein", "description": "Pose de plaquettes et disques de frein neufs" },
+
+  { "id": 83, "metierId": 42, "nom": "Réparation d'alternateur et démarreur", "description": "Démontage, remplacement charbons et test de charge batterie" },
+  { "id": 84, "metierId": 42, "nom": "Recherche de court-circuit auto", "description": "Contrôle des fusibles, relais et faisceaux électriques" },
+
+  { "id": 85, "metierId": 43, "nom": "Passage de la valise de diagnostic", "description": "Lecture des codes défauts moteur, ABS et Airbag" },
+  { "id": 86, "metierId": 43, "nom": "Réinitialisation voyant moteur", "description": "Effacement des codes erreurs et calibration des capteurs" },
+
+  { "id": 87, "metierId": 44, "nom": "Débosselage sans peinture", "description": "Redressage d'impacts légers sur ailes et portières" },
+  { "id": 88, "metierId": 44, "nom": "Redressage de châssis au marbre", "description": "Remise en ligne des cotes de carrosserie après choc" },
+
+  { "id": 89, "metierId": 45, "nom": "Peinture complète en cabine", "description": "Apprêt, peinture teinté d'origine et vernis haute brillance cuit au four" },
+  { "id": 90, "metierId": 45, "nom": "Raccord peinture sur rayures", "description": "Retouche localisée sans démarcation sur pare-chocs ou portière" },
+
+  { "id": 91, "metierId": 46, "nom": "Recharge de gaz clim auto R134a", "description": "Tirage au vide et injection de la charge exacte de gaz réfrigérant" },
+  { "id": 92, "metierId": 46, "nom": "Remplacement compresseur de clim auto", "description": "Pose compresseur neuf et nettoyage du circuit frigorifique" },
+
+  { "id": 93, "metierId": 47, "nom": "Réparation de pneu crevé", "description": "Pose de mèche extérieure ou rustine champignon intérieure" },
+  { "id": 94, "metierId": 47, "nom": "Montage & Équilibrage de roues", "description": "Pose pneus neufs et équilibrage par plombs sur jantes" },
+
+  { "id": 95, "metierId": 48, "nom": "Révision moteur moto & Vidange", "description": "Nettoyage carburateur, vidange boîte et réglage bougie" },
+  { "id": 96, "metierId": 48, "nom": "Remplacement kit chaîne moto", "description": "Montage couronne, pignon de sortie et chaîne graissée" },
+
+  { "id": 97, "metierId": 49, "nom": "Lavage auto extérieur complet", "description": "Shampoing carrosserie, jantes dégraissées et lustrage vitres" },
+  { "id": 98, "metierId": 49, "nom": "Shampoing des sièges en tissu auto", "description": "Extraction des taches de transpiration et poussière des fauteuils" },
+
+  { "id": 99, "metierId": 50, "nom": "Rebobinage moteur électrique monophasé", "description": "Isolation cuivre et vernissage au four pour moteur électrique" },
+  { "id": 100, "metierId": 50, "nom": "Remplacement roulements et condensateurs", "description": "Changement pièces mécaniques d'usure sur pompe ou moteur" },
+
+  { "id": 101, "metierId": 51, "nom": "Vidange et entretien groupe électrogène", "description": "Changement filtres gasoil, huile et contrôle de batterie" },
+  { "id": 102, "metierId": 51, "nom": "Remplacement régulateur de tension (AVR)", "description": "Dépannage groupe qui ne fournit plus de courant stable (220V)" },
+
+  { "id": 103, "metierId": 52, "nom": "Usinage d'arbres et bagues sur tour", "description": "Tournage de précision sur acier, bronze ou téflon" },
+  { "id": 104, "metierId": 52, "nom": "Fraisage de rainures et clavettes", "description": "Rectification de pièces mécaniques sur fraiseuse" },
+
+  { "id": 105, "metierId": 53, "nom": "Soudure tuyauterie haute pression", "description": "Soudure de conduites vapeur ou hydrocarbures certifiée" },
+  { "id": 106, "metierId": 53, "nom": "Montage de brides et vannes industrielles", "description": "Raccordement sécurisé de tuyaux gros diamètres" },
+
+  { "id": 107, "metierId": 54, "nom": "Ramonage conduit de cheminée", "description": "Brossage mécanique des suies et dépôts de goudron" },
+  { "id": 108, "metierId": 54, "nom": "Installation insert et foyer fermé", "description": "Raccordement étanche pour barbecue d'intérieur ou cheminée" },
+
+  { "id": 109, "metierId": 55, "nom": "Pose film teinté solaire pour vitres", "description": "Protection contre les UV et la chaleur pour vitres auto ou bureau" },
+  { "id": 110, "metierId": 55, "nom": "Pose film sécurité anti-effraction", "description": "Renforcement du vitrage contre les jets de projectiles" },
+
+  { "id": 111, "metierId": 56, "nom": "Contrôle parallélisme laser", "description": "Vérification de l'alignement des roues avant et arrière" },
+  { "id": 112, "metierId": 56, "nom": "Réglage du carrossage", "description": "Ajustement de l'angle des pneus pour stopper l'usure anormale" },
+
+  { "id": 113, "metierId": 57, "nom": "Réparation fuite de radiateur moteur", "description": "Soudure étain ou aluminium sur faisceau de refroidissement" },
+  { "id": 114, "metierId": 57, "nom": "Détartrage chimique de cuve", "description": "Nettoyage de dépôts calcaires dans radiateur et réservoir" },
+
+  { "id": 115, "metierId": 58, "nom": "Réparation ciel de toit décollé", "description": "Démontage pavillon et pose nouveau tissu collé haute résistance" },
+  { "id": 116, "metierId": 58, "nom": "Confection housses de siège auto sur-mesure", "description": "Couture similicuir ajusté pour protection banquette et sièges" },
+
+  { "id": 117, "metierId": 59, "nom": "Remplacement écran smartphone cassé", "description": "Pose d'écran OLED ou LCD neuf avec test tactile complet" },
+  { "id": 118, "metierId": 59, "nom": "Changement connecteur de charge", "description": "Micro-soudure port Type-C ou Lightning ne chargeant plus" },
+
+  { "id": 119, "metierId": 60, "nom": "Formatage et réinstallation système", "description": "Installation propre de Windows/macOS avec pilotes et logiciels de base" },
+  { "id": 120, "metierId": 60, "nom": "Dépoussiérage et changement pâte thermique", "description": "Nettoyage ventilateur ordinateur qui surchauffe et s'éteint" },
+
+  { "id": 121, "metierId": 61, "nom": "Débourrage papier et changement galets", "description": "Remplacement galets d'entraînement papier qui patinent" },
+  { "id": 122, "metierId": 61, "nom": "Débouchage têtes d'impression", "description": "Nettoyage ultrasons buses d'encre bouchées et réalignement" },
+
+  { "id": 123, "metierId": 62, "nom": "Remplacement de talons et patins", "description": "Pose de patins antidérapants pour prolonger la durée des chaussures" },
+  { "id": 124, "metierId": 62, "nom": "Recollage et couture semelle", "description": "Recollage colle contact et couture trépointe renforcée" },
+
+  { "id": 125, "metierId": 63, "nom": "Réparation fermeture éclair de sac", "description": "Changement curseur ou remplacement zip sur sacoche ou valise" },
+  { "id": 126, "metierId": 63, "nom": "Rénovation et cirage cuir de luxe", "description": "Nourrissage du cuir et reteinte sur sac à main abîmé" },
+
+  { "id": 127, "metierId": 64, "nom": "Confection costume 2 pièces homme", "description": "Prise de mensurations et coupe sur-mesure veste et pantalon" },
+  { "id": 128, "metierId": 64, "nom": "Confection tenue traditionnelle africaine", "description": "Couture de boubous, gandouras et agbadas brodés" },
+
+  { "id": 129, "metierId": 65, "nom": "Confection robe de soirée sur-mesure", "description": "Création modèle unique en satin, mousseline ou dentelle" },
+  { "id": 130, "metierId": 65, "nom": "Couture ensemble tailleur dame", "description": "Jupe droite et veste cintrée pour travail et cérémonies" },
+
+  { "id": 131, "metierId": 66, "nom": "Ourlet simple ou invisible pantalon", "description": "Ajustement précis de longueur pantalon, jean ou robe" },
+  { "id": 132, "metierId": 66, "nom": "Rétrécissement de taille vêtement", "description": "Reprise de pinces sur veste ou pantalon trop large" },
+
+  { "id": 133, "metierId": 67, "nom": "Broderie de logos sur polos et casquettes", "description": "Numérisation de logo entreprise et broderie machine haute précision" },
+  { "id": 134, "metierId": 67, "nom": "Broderie manuelle au fil d'or", "description": "Finitions décoratives artisanales sur cols et manches" },
+
+  { "id": 135, "metierId": 68, "nom": "Repassage de chemises à domicile", "description": "Repassage sans faux plis et mise sur cintres" },
+  { "id": 136, "metierId": 68, "nom": "Nettoyage et repassage de linge de lit", "description": "Lavage draps, housses de couette et pliage professionnel" },
+
+  { "id": 137, "metierId": 69, "nom": "Shampoing canapé par injection-extraction", "description": "Désincrustation en profondeur des taches et odeurs sur salon tissu" },
+  { "id": 138, "metierId": 69, "nom": "Nettoyage vapeur tapis et moquettes", "description": "Élimination des acariens et ravivement des fibres" },
+
+  { "id": 139, "metierId": 70, "nom": "Lavage et brossage intérieur de cuve", "description": "Nettoyage manuel décrassage boues au fond de la réserve d'eau" },
+  { "id": 140, "metierId": 70, "nom": "Désinfection eau réservoir au chlore", "description": "Dosage désinfectant pour garantir une eau propre et saine" },
+
+  { "id": 141, "metierId": 71, "nom": "Préparation sol et lit de gravier pour gazon", "description": "Décaissement et compactage pour pose pelouse stable" },
+  { "id": 142, "metierId": 71, "nom": "Découpe et collage bandes gazon synthétique", "description": "Jointure invisible par bande de pontage et clouage" },
+
+  { "id": 143, "metierId": 72, "nom": "Pose de plaquettes de parement pierre", "description": "Habillage mural intérieur ou façade en fausses pierres ou pierres plates" },
+  { "id": 144, "metierId": 72, "nom": "Taille de moellons et granit", "description": "Façonnage de blocs de pierre pour piliers et murets" },
+
+  { "id": 145, "metierId": 73, "nom": "Pose de gouttières PVC ou zinc", "description": "Fixation crochets et tuyaux pour collecte des eaux pluviales" },
+  { "id": 146, "metierId": 73, "nom": "Nettoyage et débouchage de gouttières", "description": "Retrait feuilles mortes et réparation fuite aux raccords" },
+
+  { "id": 147, "metierId": 74, "nom": "Pose miroir mural sur-mesure", "description": "Fixation murale sécurisée de grands miroirs salle de bain ou salon" },
+  { "id": 148, "metierId": 74, "nom": "Découpe de verre biseauté pour table", "description": "Plateau en verre trempé aux bords polis non coupants" },
+
+  { "id": 149, "metierId": 75, "nom": "Installation de store banne motorisé", "description": "Fixation façade pour protection solaire de terrasse ou balcon" },
+  { "id": 150, "metierId": 75, "nom": "Remplacement de toile de store usée", "description": "Dépose ancienne toile et pose tissu acrylique déperlant neuf" },
+
+  { "id": 151, "metierId": 76, "nom": "Montage échafaudage de façade", "description": "Installation aux normes de sécurité avec garde-corps et platelages" },
+  { "id": 152, "metierId": 76, "nom": "Travaux acrobatiques sur cordes", "description": "Intervention sur bâtiment inaccessible sans nacelle" },
+
+  { "id": 153, "metierId": 77, "nom": "Fabrication enseigne lumineuse LED", "description": "Conception caisson rétroéclairé avec nom de commerce" },
+  { "id": 154, "metierId": 77, "nom": "Pose lettres adhésives vitrine", "description": "Marquage publicitaire horaires et services sur vitrine de magasin" },
+
+  { "id": 155, "metierId": 78, "nom": "Impression sérigraphie t-shirts en série", "description": "Impression textile couleurs résistantes pour événementiel" },
+  { "id": 156, "metierId": 78, "nom": "Flocage nom et numéro maillots", "description": "Pressage à chaud de vinyle thermocollant sur maillots de foot" },
+
+  { "id": 157, "metierId": 79, "nom": "Sculpture de statuettes et masques bois", "description": "Création artisanale taillée dans essences locales (ébène, iroko)" },
+  { "id": 158, "metierId": 79, "nom": "Gravure sur panneau en bois massif", "description": "Gravure en relief pour plaque de porte ou enseigne de villa" },
+
+  { "id": 159, "metierId": 80, "nom": "Fabrication de rampe d'escalier en fer forgé", "description": "Main courante et barreaux ouvragés pour escalier" },
+  { "id": 160, "metierId": 80, "nom": "Pose garde-corps de balcon artistique", "description": "Protection de balcon robuste avec volutes métalliques décoratives" },
+
+  { "id": 161, "metierId": 81, "nom": "Pose de laine de verre sous toiture", "description": "Isolation thermique contre la chaleur sous les tôles" },
+  { "id": 162, "metierId": 81, "nom": "Isolation phonique de cloison mitoyenne", "description": "Pose de panneaux acoustiques anti-bruit entre deux pièces" },
+
+  { "id": 163, "metierId": 82, "nom": "Installation chauffe-eau solaire", "description": "Fixation panneaux thermiques et ballon d'eau chaude autonome" },
+  { "id": 164, "metierId": 82, "nom": "Entretien circuit fluide caloporteur", "description": "Purge et contrôle de pression du chauffe-eau solaire" },
+
+  { "id": 165, "metierId": 83, "nom": "Installation de baignoire balnéo", "description": "Raccordement buses d'hydromassage et circuit électrique étanche" },
+  { "id": 166, "metierId": 83, "nom": "Pose de douche à l'italienne encastrée", "description": "Receveur extra-plat avec caniveau inox et robinetterie encastrée" },
+
+  { "id": 167, "metierId": 84, "nom": "Réglage dérailleur et freins vélo", "description": "Changement câbles et patins de freins pour vélo de ville ou VTT" },
+  { "id": 168, "metierId": 84, "nom": "Changement chambre à air trottinette", "description": "Remplacement pneu plein ou chambre crevée trottinette électrique" },
+
+  { "id": 169, "metierId": 85, "nom": "Pose de cloisons en plaques BA13", "description": "Montage rails métalliques et vissage plaques de plâtre" },
+  { "id": 170, "metierId": 85, "nom": "Pose de bandes à joint et ponçage", "description": "Enduisage des raccords de placo pour un mur parfaitement lisse" },
+
+  { "id": 171, "metierId": 86, "nom": "Chargement et déchargement camionnette", "description": "Emballage sous couvertures et transport meuble sans rayures" },
+  { "id": 172, "metierId": 86, "nom": "Manutention d'objets lourds par escalier", "description": "Portage réfrigérateur américain, piano droit ou coffre fort" },
+
+  { "id": 173, "metierId": 87, "nom": "Montage de penderie et lit en kit", "description": "Assemblage minutieux selon notice constructeur" },
+  { "id": 174, "metierId": 87, "nom": "Fixation murale meuble haut de cuisine", "description": "Chevillage solide dans briques ou béton pour supporter la charge" },
+
+  { "id": 175, "metierId": 88, "nom": "Ouverture de coffre-fort bloqué", "description": "Déblocage sans perçage de serrure électronique ou combinaison mécanique" },
+  { "id": 176, "metierId": 88, "nom": "Pose de tôle de blindage pour porte", "description": "Renforcement d'une porte existante avec cornières anti-pinces" },
+
+  { "id": 177, "metierId": 89, "nom": "Contrôle et recharge d'extincteur", "description": "Vérification pression manomètre et pesée poudre extincteur" },
+  { "id": 178, "metierId": 89, "nom": "Pose de détecteurs autonomes de fumée (DAAF)", "description": "Fixation au plafond et test d'alerte sonore" },
+
+  { "id": 179, "metierId": 90, "nom": "Traçage de places de parking à la peinture", "description": "Lignes blanches/jaunes rétro-réfléchissantes résistantes au trafic" },
+  { "id": 180, "metierId": 90, "nom": "Pose de panneaux de signalisation", "description": "Scellement de poteaux stop, sens interdit et fléchage usine" },
+
+  { "id": 181, "metierId": 91, "nom": "Synchronisation crochet machine à coudre", "description": "Réglage de la prise de boucle pour éviter que le fil ne casse" },
+  { "id": 182, "metierId": 91, "nom": "Changement courroie et moteur machine", "description": "Remplacement moteur pédale pour machine industrielle ou familiale" },
+
+  { "id": 183, "metierId": 92, "nom": "Changement charbons de meuleuse / perceuse", "description": "Remplacement pièces d'usure électrique pour outillage sans puissance" },
+  { "id": 184, "metierId": 92, "nom": "Réparation cordon d'alimentation coupé", "description": "Raccordement et gaine thermorétractable sur câble abîmé" },
+
+  { "id": 185, "metierId": 93, "nom": "Teinture de grands voilages en cuve", "description": "Changement uniforme de couleur pour tentures et nappes" },
+  { "id": 186, "metierId": 93, "nom": "Rénovation teinte pantalon et vestes", "description": "Bain de teinture noire ou bleue pour vêtement décoloré par le soleil" },
+
+  { "id": 187, "metierId": 94, "nom": "Lavage toiture au nettoyeur haute pression", "description": "Décapage des mousses, champignons et poussières accumulées" },
+  { "id": 188, "metierId": 94, "nom": "Application traitement hydrofuge toiture", "description": "Produit pulvérisé pour empêcher l'eau de stagner sur les tôles" },
+
+  { "id": 189, "metierId": 95, "nom": "Carottage béton pour passage de tuyaux", "description": "Perçage circulaire net gros diamètre sans fissurer le mur" },
+  { "id": 190, "metierId": 95, "nom": "Sciage de dalle béton au disque diamant", "description": "Création d'ouverture trémie ou découpe de joint de dilatation" },
+
+  { "id": 191, "metierId": 96, "nom": "Pose de toile de plafond tendu à chaud", "description": "Chauffage canon à air et harponnage de toile brillante ou mate" },
+  { "id": 192, "metierId": 96, "nom": "Intégration spots LED dans plafond tendu", "description": "Découpe anneaux de renfort et pose de spots encastrés" },
+
+  { "id": 193, "metierId": 97, "nom": "Localisation fuite par caméra thermique", "description": "Détection d'eau chaude encastrée sans casser les murs" },
+  { "id": 194, "metierId": 97, "nom": "Recherche de fuite au gaz traceur", "description": "Injection azote hydrogéné pour localiser fuites sous chape ou jardin" },
+
+  { "id": 195, "metierId": 98, "nom": "Application résine époxy sol garage", "description": "Revêtement étanche brillant résistant aux huiles et pneus chauds" },
+  { "id": 196, "metierId": 98, "nom": "Coulage sol autonivelant d'entrepôt", "description": "Lissage sol anti-poussière pour zone à fort passage" },
+
+  { "id": 197, "metierId": 99, "nom": "Cintrage de tubes acier pour barrière", "description": "Courbage mécanique sans écrasement de profilés métalliques" },
+  { "id": 198, "metierId": 99, "nom": "Pliage de tôle sur plieuse hydraulique", "description": "Formage de cornières et bacs métalliques sur plan" },
+
+  { "id": 199, "metierId": 100, "nom": "Installation d'interrupteurs connectés WiFi", "description": "Remplacement interrupteurs classiques pour contrôle smartphone ou vocal" },
+  { "id": 200, "metierId": 100, "nom": "Programmation scénarios de maison", "description": "Extinction automatique des lumières et fermeture volets lors du départ" }
+]
